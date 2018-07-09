@@ -6,7 +6,7 @@ This case requires trainees to develop a customer segmentation to define marketi
 sample dataset summarizes the usage behavior of about 9000 active credit card holders during the
 last 6 months. The file is at a customer level with 19 behavioral variables.
 
-To see the code, click <a href="https://github.com/MohitKediaCredit-Card-Segmentation-in-R/">here</a>
+To see the code, click <a href="https://github.com/MohitKedia/Credit-Card-Segmentation-in-R">here</a>
 
 
 Variables in the dataset :
