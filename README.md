@@ -9,10 +9,10 @@ last 6 months. The file is at a customer level with 18 behavioral variables.
 
 Variables in the dataset :
 
-CUST_ID                          : Credit card holder ID
-BALANCE                          : Monthly average balance (based on daily balance averages)
-BALANCE_FREQUENCY                : Ratio of last 12 months with balance
-PURCHASES                        : Total purchase amount spent during last 12 months
+1. CUST_ID                          : Credit card holder ID
+2. BALANCE                          : Monthly average balance (based on daily balance averages)
+3. BALANCE_FREQUENCY                : Ratio of last 12 months with balance
+4. PURCHASES                        : Total purchase amount spent during last 12 months
 ONEOFF_PURCHASES                 : Total amount of one-off purchases
 INSTALLMENTS_PURCHASES           : Total amount of installment purchases
 CASH_ADVANCE                     : Total cash-advance amount
